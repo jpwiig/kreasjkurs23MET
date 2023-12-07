@@ -1,0 +1,1 @@
+# Her vil forskjellige ting som vi forklarer i løpet av kurset som er tema i  DAPE1400, som vi ser litt nærmere på være
