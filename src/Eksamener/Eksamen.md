@@ -11,7 +11,7 @@ I denne mappen så vil du se forskjellige løsningsforslag for forskjellige eksa
 ||
 ||
 ---
-_  Jeg anbefaler at dere prøver å gå gjennom eksamen selv før dere ser på min løsning, da hver programmerer har sin egen programmeringsstil_
+_Jeg anbefaler at dere prøver å gå gjennom eksamen selv før dere ser på min løsning, da hver programmerer har sin egen programmeringsstil_
 **<br>NB : jeg kan ikke lenke til eksamensoppgavene som er tilgjeninglig på et privat sted så disse må dere finne i canvas selv!**
 ### Viktige Ting å huske på i eksamen (etter min mening):
 - Ta dere god tid, er ikke om å gjøre å bli ferdig med eksamen først
