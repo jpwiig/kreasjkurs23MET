@@ -10,3 +10,5 @@ Her er en liten oversikt over nyttige shortcuts, dette er hovedsaklig på window
 | controll alt shift       | refaktoriserer koden din                                                        |                            |
 | controll alt L           | reformaterer koden din                                                          ||
  | controll alt T | omringer alt (kan velge mellom forskjellige type conditions og skrive inn       |
+
+ - Har dere flere shortcuts? Lag en PR så kan jeg se på det
