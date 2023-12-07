@@ -12,4 +12,4 @@
 Et veldig enkelt diagram som viser forholdet til liste i collections, dette vil se litt annerledes ut i kildekoden
 
 
-![Collection as a UML diagram(might have some errors)](img_1.png)
+![Collection as a UML diagram(might have some errors)](DiagramForCollection.svg)
