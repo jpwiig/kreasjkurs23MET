@@ -6,7 +6,7 @@ import java.util.List;
 public interface ExampleInterface {
     public int returnAnumber(int number);
     public void popUpBox(String innput);
-    public int[]returnArray (int[] NumberArray);
+    public int[]returnArray (int[] numberArray);
     //Jeg kaller på "interface" til ArrayList, dette er av vane, og jeg personlig syns det er mer ryddig, vi kommer til å implementere en ArrayList i de som kaller på en List, PLUSS SÅ PASSER KODEN TIL MER!!
     public List<Integer> AListOfNumbers(List<Integer>IntegerList);
     public List<String> AListOfStrings(List<String>stringList);
