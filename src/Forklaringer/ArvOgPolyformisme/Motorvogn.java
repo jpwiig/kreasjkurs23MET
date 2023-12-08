@@ -8,6 +8,10 @@ public class Motorvogn {
         this.farge = farge;
         this.år = år;
     }
+    public Motorvogn (String farge){
+        this.farge = farge;
+        this.år = 0;
+    }
 
     public void setFarge(String farge) {
         this.farge = farge;
