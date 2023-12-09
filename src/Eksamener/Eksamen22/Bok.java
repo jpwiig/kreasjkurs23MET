@@ -1,6 +1,6 @@
 package Eksamener.Eksamen22;
 
-public class Bok {
+public class Bok { //Superklassen til lydbok og papirbok
     private String tittel;
     private String forfatter;
     private Double pris;

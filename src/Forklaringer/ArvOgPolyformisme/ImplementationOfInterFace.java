@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ImplementationOfInterFace implements ExampleInterface {
+public class ImplementationOfInterFace implements ExampleInterface { //implements -> implementerer tingenene som er i interfaced
     public int returnAnumber(int number){
         return number;
     }
@@ -25,6 +25,8 @@ public class ImplementationOfInterFace implements ExampleInterface {
         return stringList;
     }
     public <T> List<T>somthingList(List<T>Genericlistlist){
+        System.out.println("generic has been added");
+        for(T i : Genericlistlist) System.out.println(i + " ");
         return Genericlistlist;
     }
 }

@@ -50,7 +50,7 @@ public class Main {
         double sum1 = (1.3 * weight) /  (Math.pow((height/100), num));
         String ut = "BMI: "   + String.format("%.2f", sum1 );
         JOptionPane.showMessageDialog(null, ut);
-        }catch (Exception E){
+        }catch (Exception E){ //henter alle typer feilmeldinger (ikke forskjell mellom e og E)
             System.out.println("Feil: " + E);
         }
         //Oppgave 4
@@ -59,7 +59,7 @@ public class Main {
         //Oppgave 5
         List<Bok>boker = new ArrayList<>();
         Papirbok bok1= new Papirbok("Harry Potter", "J.K Rowling", 150, 100);
-        Papirbok bok2= new Papirbok("The Hunger Games", "Suzanna Collins", 80, 100);
+        Papirbok bok2= new Papirbok("The Hunger Games", "Suzanna Collins", 80, 100); //er det suzanne eller suzanna
         //legger til bøker
         boker.add(bok1);
         boker.add(bok2);
@@ -71,7 +71,7 @@ public class Main {
         boker.add(lydbok2);
 
         //foreach for å printe ut:
-        for (Bok boken :  boker) System.out.println(boken.toString());
+        for (Bok boken :  boker) System.out.println(boken.toString()); //foreach siden vi printer ut samtidig
 
     }
 }
